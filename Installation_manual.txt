@@ -1,0 +1,13 @@
+Thank you for deciding to download our web application! In order to install it please carefully follow the below steps:
+
+1) Download the files from git hub with this link: url: ""
+2) Donwload XAMPP
+3) Unzip the downloaded files from the folder and put them in the following directory: C:/xampp/htdocs
+4) Open XAMPP and Start Apache and MySql 
+5) Open a browser and on the search type localhost/phpMyAdmin
+6) In the phpMyAdmin page on the top left click "New", afterwards put a Database name and click create. (The name for the database is petdb_V8)
+7) On the navigation bar inside the phpMyAdmin page click "import", choose files and select the files on C:/xampp/htdocs/PetHub/petdb_V8.sql
+9) After the database is uploaded, on your browser's url type "localhost/PetHub/"
+10) You are ready to use the web application. If you are a new user please go to the registration page and create your profile.
+
+Enjoy!!!
